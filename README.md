@@ -1,2 +1,2 @@
 # BCI-Seminat-Report
-aA comprehensive seminar report on Brain-Computer Interface (BCI) technology, covering its working principles, applications, challenges, and future scope. Useful for students and researchers exploring neural interfaces and human-machine interaction.
+This repository contains a detailed academic seminar report on Brain-Computer Interface (BCI) technology. The report explores the fundamental concepts, working principles, types, applications, challenges, and future trends of BCI systems. It is designed as a comprehensive resource for students, researchers, and enthusiasts interested in neural interfaces, neurotechnology, and human-computer interaction.
